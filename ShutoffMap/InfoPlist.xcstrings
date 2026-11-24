@@ -1,0 +1,52 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "CFBundleDisplayName": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "家庭应急卡"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "家庭應急卡"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shutoff Map"
+          }
+        }
+      }
+    },
+    "NSCameraUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用于给总水阀、配电箱、燃气阀拍照，出事时一眼找到。照片只存在你的手机上。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用於幫總水閥、配電箱、瓦斯閥拍照，出事時一眼找到。照片只存在你的手機上。"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Take photos of your shutoff valves and breaker panel so you can find them in an emergency. Photos stay on your iPhone."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
